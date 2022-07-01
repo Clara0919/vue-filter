@@ -1,0 +1,754 @@
+[
+	
+	{
+		"class": "FN102",
+		"name": ["莊美柔", "Zoe"],
+		"skills": [],
+		"gender": "female",
+		"age": 24,
+		"seniority": 1,
+		"education": "學士",
+		"dept": "輔仁大學公共衛生系"
+	},
+	{
+		"class": "FN102",
+		"name": ["石佳弘", "Johnny"],
+		"skills": ["Vue.js", "PHP", "MySQL"],
+		"gender": "male",
+		"age": 24,
+		"seniority": 2,
+		"education": "高職",
+		"dept": "木柵高工"
+	},
+	{
+		"class": "FN102",
+		"name": ["石楷圻", "Ryan"],
+		"skills": ["Vue.js", "JavaScript", "Node.js"],
+		"gender": "male",
+		"age": 22,
+		"seniority": 0,
+		"education": "學士",
+		"dept": "中山大學社會學系"
+	},
+	{
+		"class": "FN102",
+		"name": ["江姿嫻", "Jovy"],
+		"skills": ["HTML/CSS", "Vue.js", "JavaScript", "產品行銷", "市調分析", "簡報提案"],
+		"gender": "female",
+		"age": 27,
+		"seniority": 3,
+		"education": "學士",
+		"dept": "台中教育大學英語系"
+	},
+	{
+		"class": "FN102",
+		"name": ["何曼瑄", "Clara"],
+		"skills": ["Vue.js", "HTML/CSS", "JavaScript", "Bootstrap5"],
+		"gender": "female",
+		"age": 23,
+		"seniority": 1,
+		"education": "學士",
+		"dept": "政治大學廣告系"
+	},
+	{
+		"class": "FN102",
+		"name": ["何瑞基", "Ricky"],
+		"skills": ["HTML/CSS", "Bootstrap5"],
+		"gender": "male",
+		"age": 44,
+		"seniority": 9,
+		"education": "學士",
+		"dept": "龍華科技大學化學工程系"
+	},
+	{
+		"class": "FN102",
+		"name": ["吳舒軒", "Susie"],
+		"skills": ["HTML/CSS", "Vue.js", "JavaScript", "Bootstrap5"],
+		"gender": "female",
+		"age": 29,
+		"seniority": 3,
+		"education": "碩士",
+		"dept": "台灣大學圖書資訊學研究所"
+	},
+	{
+		"class": "FN102",
+		"name": ["李芸臻", "Jessie"],
+		"skills": ["HTML/CSS", "Vue.js", "Bootstrap5"],
+		"gender": "female",
+		"age": 23,
+		"seniority": 1,
+		"education": "學士",
+		"dept": "高雄應用科技大學"
+	},
+	{
+		"class": "FN102",
+		"name": ["周書漢", "Hank"],
+		"skills": ["HTML/CSS", "PS/AI/Figma", "Bootstrap5", "JavaScript"],
+		"gender": "male",
+		"age": 26,
+		"seniority": 2.5,
+		"education": "學士",
+		"dept": "台灣師範大學設計學系"
+	},
+	{
+		"class": "FN102",
+		"name": ["林芳瑜", "Angel"],
+		"skills": ["HTML/CSS", "Bootstrap5", "Vue.js"],
+		"gender": "female",
+		"age": 24,
+		"seniority": 0,
+		"education": "學士",
+		"dept": "中國科技大學企業管理系"
+	},
+	{
+		"class": "FN102",
+		"name": ["林皖暄", "Jenny"],
+		"skills": ["HTML/CSS", "Vue.js", "Bootstrap5"],
+		"gender": "female",
+		"age": 23,
+		"seniority": 1.5,
+		"education": "學士",
+		"dept": "輔仁大學財經法律系"
+	},
+	{
+		"class": "FN102",
+		"name": ["邱品鈞", "Hato"],
+		"skills": ["Vue.js", "uniApp", "JavaScript"],
+		"gender": "male",
+		"age": 26,
+		"seniority": 1.5,
+		"education": "學士",
+		"dept": "東吳大學數學系"
+	},
+	{
+		"class": "FN102",
+		"name": ["張師竹", "Kelly"],
+		"skills": ["HTML/CSS", "Bootstrap5", "Vue.js"],
+		"gender": "female",
+		"age": 25,
+		"seniority": 2.5,
+		"education": "學士",
+		"dept": "交通大學外國語文學系"
+	},
+	{
+		"class": "FN102",
+		"name": ["張晏嘉", "Alicia"],
+		"skills": ["HTML/CSS", "Vue.js", "Node.js"],
+		"gender": "female",
+		"age": 27,
+		"seniority": 2.5,
+		"education": "學士",
+		"dept": "淡江大學西班牙語文學系"
+	},
+	{
+		"class": "FN102",
+		"name": ["張連芸", "Wendy"],
+		"skills": ["HTML/CSS", "Vue.js", "Bootstrap5"],
+		"gender": "female",
+		"age": 25,
+		"seniority": 3,
+		"education": "學士",
+		"dept": "輔仁大學心理學系"
+	},
+	{
+		"class": "FN102",
+		"name": ["張絲羽", "Annie"],
+		"skills": ["HTML/CSS", "Vue.js", "JavaScript", "Bootstrap5"],
+		"gender": "female",
+		"age": 28,
+		"seniority": 4,
+		"education": "學士",
+		"dept": "淡江大學日本語文學系"
+	},
+	{
+		"class": "FN102",
+		"name": ["張雅婷", "Tiffany"],
+		"skills": ["HTML/CSS", "Bootstrap5"],
+		"gender": "female",
+		"age": 23,
+		"seniority": 0,
+		"education": "學士",
+		"dept": "朝陽科技大學景觀與都市設計系"
+	},
+	{
+		"class": "FN102",
+		"name": ["郭信宏", "Shin"],
+		"skills": ["HTML/CSS", "Bootstrap5"],
+		"gender": "male",
+		"age": 28,
+		"seniority": 2.5,
+		"education": "學士",
+		"dept": "致理科技大學企業管理系"
+	},
+	{
+		"class": "FN102",
+		"name": ["陳孝容", "Smile"],
+		"skills": ["HTML/CSS", "Bootstrap5", "Vue.js", "JavaScript", "PHP"],
+		"gender": "female",
+		"age": 23,
+		"seniority": 1.5,
+		"education": "學士",
+		"dept": "中興大學食品暨應用生物科技系"
+	},
+	{
+		"class": "FN102",
+		"name": ["陳思穎", "Sira"],
+		"skills": ["Bootstrap5", "Vue.js"],
+		"gender": "female",
+		"age": 23,
+		"seniority": 0,
+		"education": "學士",
+		"dept": "台灣藝術大學工業設計學系"
+	},
+	{
+		"class": "FN102",
+		"name": ["陳詩穎", "Kayla"],
+		"skills": ["HTML/CSS", "Vue.js", "PS/AI/Figma"],
+		"gender": "female",
+		"age": 29,
+		"seniority": 5,
+		"education": "學士",
+		"dept": "輔仁大學服裝設計系"
+	},
+	{
+		"class": "FN102",
+		"name": ["曾建勝", "Jason"],
+		"skills": ["HTML/CSS", "Vue.js", "JavaScript"],
+		"gender": "male",
+		"age": 26,
+		"seniority": 2,
+		"education": "學士",
+		"dept": "宜蘭大學休閒產業與健康促進學系"
+	},
+	{
+		"class": "FN102",
+		"name": ["楊哲瑜", "Jeff"],
+		"skills": ["HTML/CSS", "Bootstrap5", "Vue.js", "JavaScript"],
+		"gender": "male",
+		"age": 23,
+		"seniority": 1.5,
+		"education": "學士",
+		"dept": "中國文化大學財經法律系"
+	},
+	{
+		"class": "FN102",
+		"name": ["葉怡伶", "Linn"],
+		"skills": ["HTML/CSS", "Bootstrap5", "PS/AI/Figma"],
+		"gender": "female",
+		"age": 28,
+		"seniority": 2,
+		"education": "學士",
+		"dept": "大葉大學工業設計系"
+	},
+	{
+		"class": "DV102",
+		"name": ["徐宏齊", "Rick"],
+		"skills": ["Python", "MySqL", "AWS"],
+		"gender": "female",
+		"age": 22,
+		"seniority": 3.5,
+		"education": "學士",
+		"dept": "大同大學生物工程系"
+	},
+	{
+		"class": "DV102",
+		"name": ["徐偉瑄", "Steven"],
+		"skills": ["Python", "MySQL", "Linux"],
+		"gender": "female",
+		"age": 24,
+		"seniority": 0.5,
+		"education": "學士",
+		"dept": "台北市立大學都會產業經營與行銷系"
+	},
+	{
+		"class": "DV102",
+		"name": ["徐瑋羚", "Sherlin"],
+		"skills": ["資料視覺化", "Python", "MySQL", "MongoDB"],
+		"gender": "female",
+		"age": 25,
+		"seniority": 1.5,
+		"education": "學士",
+		"dept": "世新大學行政管理系"
+	},
+	{
+		"class": "DV102",
+		"name": ["徐嘉鴻", "Chace"],
+		"skills": ["資料視覺化", "MySQL", "Python"],
+		"gender": "female",
+		"age": 29,
+		"seniority": 5.5,
+		"education": "學士",
+		"dept": "輔仁大學織品服裝系行銷組"
+	},
+	{
+		"class": "DV102",
+		"name": ["王彥晴", "Sandy"],
+		"skills": ["MySQL", "Python", "資料視覺化"],
+		"gender": "female",
+		"age": 24,
+		"seniority": 3,
+		"education": "學士",
+		"dept": "東吳大學企業管理系"
+	},
+	{
+		"class": "DV102",
+		"name": ["何曉婷", "Elaine"],
+		"skills": ["資料視覺化", "MySQL", "MongoDB", "Python"],
+		"gender": "female",
+		"age": 28,
+		"seniority": 6,
+		"education": "學士",
+		"dept": "銘傳大學餐旅管理系"
+	},
+	{
+		"class": "DV102",
+		"name": ["李秉融", "Darren"],
+		"skills": ["AWS", "Python", "Linux"],
+		"gender": "male",
+		"age": 27,
+		"seniority": 2.5,
+		"education": "學士",
+		"dept": "臺北大學公共行政暨政策學系"
+	},
+	{
+		"class": "DV102",
+		"name": ["李姿靜", "TzuChing"],
+		"skills": ["MySQL", "MongoDB", "資料視覺化", "Python"],
+		"gender": "female",
+		"age":  27,
+		"seniority": 3,
+		"education": "學士",
+		"dept": "高雄大學應用經濟系"
+	},
+	{
+		"class": "DV102",
+		"name": ["李柏翰", "Leo"],
+		"skills": ["Python", "MySQL", "Linux"],
+		"gender": "male",
+		"age": 29,
+		"seniority": 3,
+		"education": "學士",
+		"dept": "實踐大學企業管理學系"
+	},
+	{
+		"class": "DV102",
+		"name": ["李書羽", "Lee"],
+		"skills": ["MySQL", "MongoDB", "Linux", "Python"],
+		"gender": "male",
+		"age": 28,
+		"seniority": 2.5,
+		"education": "學士",
+		"dept": "嶺東科技大學資訊科技系"
+	},
+	{
+		"class": "DV102",
+		"name": ["李維", "David"],
+		"skills": ["Python", "MySQL", "Linux"],
+		"gender": "male",
+		"age": 28,
+		"seniority": 0,
+		"education": "學士",
+		"dept": "中興大學應用數學系"
+	},
+	{
+		"class": "DV102",
+		"name": ["李怡妏", "Albee"],
+		"skills": ["資料視覺化", "Linux", "MySQL", "MongoDB"],
+		"gender": "female",
+		"age": 25,
+		"seniority": 2.5,
+		"education": "學士",
+		"dept": "高雄第一科技大學應用英文系"
+	},
+	{
+		"class": "DV102",
+		"name": ["許志哲", "Jeff"],
+		"skills": ["Python", "Azure", "Linux"],
+		"gender": "male",
+		"age": 27,
+		"seniority": 2.5,
+		"education": "學士",
+		"dept": "亞洲大學財務金融學系"
+	},
+	{
+		"class": "DV102",
+		"name": ["陳冠廷", "Jimmy"],
+		"skills": ["Python", "Linux", "MySQL", "MongoDB"],
+		"gender": "male",
+		"age": 23,
+		"seniority": 1,
+		"education": "學士",
+		"dept": "臺灣海洋大學電機工程學系"
+	},
+	{
+		"class": "DV102",
+		"name": ["陳維凱", "Howard"],
+		"skills": ["Python", "MySQL", "資料視覺化"],
+		"gender": "male",
+		"age": 24,
+		"seniority": 0.5,
+		"education": "學士",
+		"dept": "東吳大學經濟系"
+	},
+	{
+		"class": "DV102",
+		"name": ["單郁雅", "Yuya"],
+		"skills": ["資料視覺化", "MongoDB"],
+		"gender": "female",
+		"age": 30,
+		"seniority": 0.5,
+		"education": "學士",
+		"dept": "銘傳大學經濟學系/休閒遊憩管理學系"
+	},
+	{
+		"class": "DV102",
+		"name": ["黃兆伶", "Dorit"],
+		"skills": ["專案管理", "Python", "MySQL", "資料視覺化"],
+		"gender": "female", 
+		"age": 28,
+		"seniority": 6,
+		"education": "碩士",
+		"dept": "瑞典布羅斯大學紡織管理交換學程"
+	},
+	{
+		"class": "DV102",
+		"name": ["楊依紋", "Elsa Yang"],
+		"skills": ["Python", "資料視覺化", "MySQL"],
+		"gender": "female",
+		"age": 32,
+		"seniority": 4.5,
+		"education": "碩士",
+		"dept": "九州大學經濟工程"
+	},
+	{
+		"class": "DV102",
+		"name": ["廖佳筠", "Una"],
+		"skills": ["Python", "MySQL", "MongoDB", "資料視覺化"],
+		"gender": "female",
+		"age": 29,
+		"seniority": 6.5,
+		"education": "學士",
+		"dept": "中興大學農藝學系"
+	},
+	{
+		"class": "DV102",
+		"name": ["廖品涵", "Betty"],
+		"skills": ["MySQL", "MongoDB", "資料視覺化", "Python"],
+		"gender": "female",
+		"age": 26,
+		"seniority": 3,
+		"education": "學士",
+		"dept": "輔仁大學社會工作學系"
+	},
+	{
+		"class": "DV102",
+		"name": ["廖柏凱", "Kevin"],
+		"skills": ["Python", "MySQL", "MongoDB", "資料視覺化"],
+		"gender": "male",
+		"age": 23,
+		"seniority": 0,
+		"education": "學士",
+		"dept": "輔仁大學社會工作學系"
+	},
+	{
+		"class": "DV102",
+		"name": ["趙政㵆", "Martin"],
+		"skills": ["Linux", "Python", "HTML/CSS"],
+		"gender": "male",
+		"age": 24,
+		"seniority": 1.5,
+		"education": "學士",
+		"dept": "德明財經科技大學多媒體設計系"
+	},
+	{
+		"class": "DV102",
+		"name": ["蔡杰希", "Jesse"],
+		"skills": ["Python", "MySQL", "資料視覺化"],
+		"gender": "male",
+		"age": 26,
+		"seniority": 5.5,
+		"education": "學士",
+		"dept": "淡江大學英文系"
+	},
+	{
+		"class": "DV102",
+		"name": ["蔡鎮宇", "Branden"],
+		"skills": ["Python", "資料視覺化", "Linux"],
+		"gender": "male",
+		"age": 25,
+		"seniority": 2,
+		"education": "學士",
+		"dept": "醫學大學保健營養學系"
+	},
+	{
+		"class": "DV102",
+		"name": ["戴先怡", "Evelyn"],
+		"skills": ["Python", "MySQL", "HTML/CSS", "Linux", "JavaScript", "Bootstrap5"],
+		"gender": "female",
+		"age": 24,
+		"seniority": 4.5,
+		"education": "學士",
+		"dept": "淡江大學中國文學系"
+	},
+	{
+		"class": "DV102",
+		"name": ["劉雅文", "Christine"],
+		"skills": [],
+		"gender": "female",
+		"age": 26,
+		"seniority": 2.5,
+		"education": "碩士",
+		"dept": "大同大學事業經營學系"
+	},
+	{
+		"class": "SE211",
+		"name": ["王立言", "Jose"],
+		"skills": ["Python", "Linux", "MySQL", "C"],
+		"gender": "male",
+		"age": 24,
+		"seniority": 1.5,
+		"education": "學士",
+		"dept": "清華大學人文社會學系"
+	},
+	{
+		"class": "SE211",
+		"name": ["杜承翰", "Dudu Tu"],
+		"skills": ["產品行銷", "市調分析", "簡報提案"],
+		"gender": "male",
+		"age": 23,
+		"seniority": 0.5,
+		"education": "學士",
+		"dept": "致理科技大學國際貿易/數位行銷學分學程"
+	},
+	{
+		"class": "SE211",
+		"name": ["鍾瑋", "Albert"],
+		"skills": ["Python", "MongoDB", "Linux"],
+		"gender": "male",
+		"age": 28,
+		"seniority": 2.5,
+		"education": "學士",
+		"dept": "崑山科技大學視覺傳達設計系"
+	},
+	{
+		"class": "SE211",
+		"name": ["陳重安", "AndrewChen"],
+		"skills": ["資安維護", "雲端/網路架構"],
+		"gender": "male",
+		"age": 29,
+		"seniority": 5.5,
+		"education": "學士",
+		"dept": "台灣師範大學科技系"
+	},
+	{
+		"class": "SE211",
+		"name": ["林同澤", "Bob Lin"],
+		"skills": ["Linux", "Python"],
+		"gender": "male",
+		"age": 28,
+		"seniority": 9,
+		"education": "學士",
+		"dept": "大同大學化工系"
+	},
+	{
+		"class": "SE211",
+		"name": ["林呈叡", "ChengsLin"],
+		"skills": ["Python", "Linux"],
+		"gender": "male",
+		"age": 24,
+		"seniority": 0,
+		"education": "高職",
+		"dept": "光隆家商資料處理系"
+	},
+	{
+		"class": "SE211",
+		"name": ["劉怡貞", "Cinna"],
+		"skills": ["MySQL"],
+		"gender": "female",
+		"age": 29,
+		"seniority": 2,
+		"education": "學士",
+		"dept": "淡江大學運輸管理學系"
+	},
+	{
+		"class": "SE211",
+		"name": ["韓精衞", "David"],
+		"skills": ["Python", "Linux", "MySQL"],
+		"gender": "male",
+		"age": 29,
+		"seniority": 3,
+		"education": "學士",
+		"dept": "開南大學空運管理學系"
+	},
+	{
+		"class": "SE211",
+		"name": ["蔡翰", "Han"],
+		"skills": ["Linux", "CCNA", "Python"],
+		"gender": "male",
+		"age": 24,
+		"seniority": 5,
+		"education": "高職",
+		"dept": "新北高工鑄造系"
+	},
+	{
+		"class": "SE211",
+		"name": ["黃薪芮", "Hugo"],
+		"skills": ["Java", "C", "Python"],
+		"gender": "male",
+		"age": 26,
+		"seniority": 3,
+		"education": "學士",
+		"dept": "真理大學資訊工程系"
+	},
+	{
+		"class": "SE211",
+		"name": ["葉晉嘉", "Jay"],
+		"skills": ["Linux", "CCNA", "MySQL", "MongoDB"],
+		"gender": "male",
+		"age": 28,
+		"seniority": 0,
+		"education": "學士",
+		"dept": "華夏科技大學資訊工程系"
+	},
+	{
+		"class": "SE211",
+		"name": ["林裕嘉", "Jerry"],
+		"skills": ["Python", "ELK", "MongoDB"],
+		"gender": "male",
+		"age": 29,
+		"seniority": 3,
+		"education": "學士",
+		"dept": "中興大學森林系"
+	},
+	{
+		"class": "SE211",
+		"name": ["董致寬", "Jimmy"],
+		"skills": ["Python", "CCNA", "MySQL", "MongoDB"],
+		"gender": "female",
+		"age": 28,
+		"seniority": 0.5,
+		"education": "學士",
+		"dept": "中華大學工業管理學系"
+	},
+	{
+		"class": "SE211",
+		"name": ["楊禮謙", "Kevin"],
+		"skills": ["Python", "Linux", "mongoDB"],
+		"gender": "male",
+		"age": 24,
+		"seniority": 0,
+		"education": "學士",
+		"dept": "海洋科技大學數位遊戲與動畫設計系"
+	},
+	{
+		"class": "SE211",
+		"name": ["李林達", "Linda Lee"],
+		"skills": ["Python", "MySQL"],
+		"gender": "female",
+		"age": 24,
+		"seniority": 0,
+		"education": "學士",
+		"dept": "中興大學農藝系"
+	},
+	{
+		"class": "SE211",
+		"name": ["連家萱", "Lucas"],
+		"skills": ["Python", "C", "mongoDB"],
+		"gender": "male",
+		"age": 23,
+		"seniority": 2,
+		"education": "學士",
+		"dept": "經國管理暨健康學院餐飲管理系"
+	},
+	{
+		"class": "SE211",
+		"name": ["莊圃榛", "Nick"],
+		"skills": ["HTML/CSS", "Python", "Linux"],
+		"gender": "female",
+		"age": 26,
+		"seniority": 1,
+		"education": "學士",
+		"dept": "臺北科技大學工業工程管理系"
+	},
+	{
+		"class": "SE211",
+		"name": ["王兆宇", "Rileepher Wang"],
+		"skills": ["Python", "Linux", "CI/CD"],
+		"gender": "female",
+		"age": 28,
+		"seniority": 1.5,
+		"education": "學士",
+		"dept": "臺灣科技大學電機系"
+	},
+	{
+		"class": "SE211",
+		"name": ["鍾佩妤", "Rita"],
+		"skills": ["Linux", "CCNA", "mongoDB"],
+		"gender": "female",
+		"age": 25,
+		"seniority": 2,
+		"education": "學士",
+		"dept": "台東大學體育學系"
+	},
+	{
+		"class": "SE211",
+		"name": ["張翊瑄", "Sherry Zhang"],
+		"skills": ["Python", "資安維護"],
+		"gender": "female",
+		"age": 25,
+		"seniority": 2.5,
+		"education": "學士",
+		"dept": "淡江大學管理科學系"
+	},
+	{
+		"class": "SE211",
+		"name": ["邱泰林", "Tom"],
+		"skills": ["Linux", "Python", "ELK"],
+		"gender": "male",
+		"age": 26,
+		"seniority": 1.5,
+		"education": "學士",
+		"dept": "宜蘭大學生物機電"
+	},
+	{
+		"class": "SE211",
+		"name": ["莊書雄", "Will Chuang"],
+		"skills": ["CCNA", "Python", "Linux"],
+		"gender": "male",
+		"age": 28,
+		"seniority": 4,
+		"education": "學士",
+		"dept": "輔仁大學食品科學系"
+	},
+	{
+		"class": "SE211",
+		"name": ["陳柔穎", "Zoe"],
+		"skills": ["Linux", "Python", "MySQL", "mongoDB"],
+		"gender": "female",
+		"age": 28,
+		"seniority": 0,
+		"education": "學士",
+		"dept": "輔仁大學歷史學系"
+	},
+	{
+		"class": "SE211",
+		"name": ["許禎庭", "ZT"],
+		"skills": ["MySQL", "MangoDB", "ELK", "Linux"],
+		"gender": "female",
+		"age": 28,
+		"seniority": 6,
+		"education": "學士",
+		"dept": "德明財經科技大學行銷管理系"
+	},
+	{
+		"class": "SE211",
+		"name": ["劉祈聖", "Sam"],
+		"skills": [],
+		"gender": "male",
+		"age": 23,
+		"seniority": 0,
+		"education": "學士",
+		"dept": "臺北護理健康大學資訊管理系"
+	}
+
+]
