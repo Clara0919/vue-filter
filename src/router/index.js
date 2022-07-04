@@ -5,6 +5,7 @@ import experienceDetailView from '../views/experienceDetailView'
 import jobDetailView from '../views/jobDetailView'
 import filterView from '../views/filterView'
 import LoginView from '../views/LoginView'
+import companyView from '../views/companyView'
 
 const routes = [
   {
@@ -36,8 +37,14 @@ const routes = [
     path: '/login',
     name: 'login',
     component: LoginView
+  },
+  {
+    path: '/company',
+    name: 'company',
+    component: companyView
   }
-  
+
+
 ]
 
 const router = createRouter({
